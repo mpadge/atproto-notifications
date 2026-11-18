@@ -1,0 +1,11 @@
+{
+    "name": "atproto-notifications",
+    "author": "Mark Padgham",
+    "version": "1.0.0",
+    "description": "Unread notifications from Bluesky, Semble and Tangled in one list. No dependencies.",
+    "type": "module",
+    "bin": { "atproto-notifications": "notifications.mjs" },
+    "engines": { "node": ">=18" },
+    "scripts": { "test": "node --test" },
+    "license": "MIT"
+}
